@@ -1,0 +1,54 @@
+
+body {
+    background-color:teal;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    
+   
+      
+
+ 
+      
+  }
+
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 40px;
+    font-size: large;
+    background-color:ghostwhite;
+    opacity: 90%;
+  }
+  header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+    background-image: url(images/lol.jpg);
+
+
+  }
+h1 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: ghostwhite;
+margin: 20;
+
+
+}
+.hero {
+    background-image: url(images/Hindsight-Bias.png);
+
+}
+.effect {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    size: 20px;
+    background-color: aliceblue;
+    opacity: 70%;
+}
+.hi {
+    color: azure;
+}
